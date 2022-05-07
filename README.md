@@ -2,11 +2,11 @@
 
 Se actualizo el front de la pagina, falta subirla al host.
 
-Antes:
+<h1>Antes:</h1>
 ![image](https://user-images.githubusercontent.com/65137011/167239767-42e0d831-7cd7-4f0d-9368-78c805fd6b72.png)
 ![image](https://user-images.githubusercontent.com/65137011/167239776-784cd08e-cde9-489f-837f-539a1d1066fb.png)
 
-Ahora:
+<h1>Ahora:</h1>
 
 ![image](https://user-images.githubusercontent.com/65137011/167239841-c4b597f0-f504-4830-956e-f65b463e4950.png)
 ![image](https://user-images.githubusercontent.com/65137011/167239847-2728908b-8bbf-49c4-a173-871c7cba01ab.png)
