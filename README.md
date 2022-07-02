@@ -3,14 +3,19 @@
 Se actualizo el front de la pagina, falta subirla al host.
 
 <h1>Antes:</h1>
-![image](https://user-images.githubusercontent.com/65137011/167239767-42e0d831-7cd7-4f0d-9368-78c805fd6b72.png)
-![image](https://user-images.githubusercontent.com/65137011/167239776-784cd08e-cde9-489f-837f-539a1d1066fb.png)
+![chrome_2fEIB8xZGo](https://user-images.githubusercontent.com/65137011/176980443-65055bad-3c6f-4005-97d0-7f214e9dea23.png)
+![chrome_wR9nsFZ984](https://user-images.githubusercontent.com/65137011/176980441-46e7be8d-8a02-475a-97a0-527f0b32926c.png)
+![chrome_K4WMyajAxG](https://user-images.githubusercontent.com/65137011/176980439-f6646a59-1596-47da-b1d4-b53ed308836d.png)
+
+
 
 
 
 <h1>Ahora:</h1>
 
-![image](https://user-images.githubusercontent.com/65137011/167239841-c4b597f0-f504-4830-956e-f65b463e4950.png)
-![image](https://user-images.githubusercontent.com/65137011/167239847-2728908b-8bbf-49c4-a173-871c7cba01ab.png)
-![image](https://user-images.githubusercontent.com/65137011/167239852-a114cddc-384f-4c6b-bb13-c6f1e6e3a5ba.png)
-![image](https://user-images.githubusercontent.com/65137011/167239855-1b605e31-6124-4b98-8f39-656575de3497.png)
+
+![chrome_1NrXCMvHbg](https://user-images.githubusercontent.com/65137011/176980501-e23aede7-b768-4a00-9359-6745f8789eee.png)
+![chrome_x8OAKJ4V92](https://user-images.githubusercontent.com/65137011/176980502-67135adc-620a-4254-bab8-70ccfa75169f.png)
+![chrome_o94WHrSb1Z](https://user-images.githubusercontent.com/65137011/176980504-7927db86-c6a4-4714-9caa-0b7e2476b910.png)
+![chrome_bVyf0ikzvq](https://user-images.githubusercontent.com/65137011/176980505-066e6af0-4992-4638-8678-03fef2e6a69f.png)
+![chrome_wPdF0FUm4g](https://user-images.githubusercontent.com/65137011/176980508-713ee096-27b9-43e8-93d2-2c2446e748a0.png)
