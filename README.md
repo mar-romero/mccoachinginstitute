@@ -3,11 +3,12 @@
 Se actualizo el front de la pagina, falta subirla al host.
 
 <h1>Antes:</h1>
-![chrome_2fEIB8xZGo](https://user-images.githubusercontent.com/65137011/176980443-65055bad-3c6f-4005-97d0-7f214e9dea23.png)
-![chrome_wR9nsFZ984](https://user-images.githubusercontent.com/65137011/176980441-46e7be8d-8a02-475a-97a0-527f0b32926c.png)
-![chrome_K4WMyajAxG](https://user-images.githubusercontent.com/65137011/176980439-f6646a59-1596-47da-b1d4-b53ed308836d.png)
 
+![chrome_2fEIB8xZGo](https://user-images.githubusercontent.com/65137011/176980530-34cc3429-e88d-4651-ad6e-ca765fe75e1d.png)
 
+![chrome_wR9nsFZ984](https://user-images.githubusercontent.com/65137011/176980531-14989cf3-579d-492c-a4d7-cd64d1e8e6bf.png)
+
+![chrome_K4WMyajAxG](https://user-images.githubusercontent.com/65137011/176980534-31d126e7-b7c4-4d9d-8896-efd34ea47de1.png)
 
 
 
